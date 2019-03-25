@@ -1,0 +1,9 @@
+{
+  "name": "home/hw2",
+
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
